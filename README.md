@@ -19,8 +19,8 @@ I'm João Pedro, a dedicated Software Engineer. My professional trajectory in th
 
 <h2> Technologies & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-- Languages: TypeScript, JavaScript, Python, Rust, C# 
-- Frameworks: Nest.js, Adonis.js, Express.js, Nuxt.js, Vue.js, Next.js, Pytorch, Tensorflow
+- Languages: TypeScript, JavaScript, Python, Rust, C#, Golang 
+- Frameworks: Nest.js, Adonis.js, Express.js, Nuxt.js, Vue.js, Next.js, Tensorflow
 - Databases: SQL Server, MySQL, PostgreSQL, Redis, MongoDB
 - Cloud Services: AWS, Azure
 - Project Management: Scrum, Kanban
